@@ -1,0 +1,14 @@
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.deps.json
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.runtimeconfig.json
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.runtimeconfig.dev.json
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.dll
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\TodoAPI.pdb
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.csprojAssemblyReference.cache
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.csproj.CoreCompileInputs.cache
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorAssemblyInfo.cache
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorAssemblyInfo.cs
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.AssemblyInfoInputs.cache
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.AssemblyInfo.cs
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.dll
+C:\Users\bturner\source\repos\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\TodoAPI.pdb
